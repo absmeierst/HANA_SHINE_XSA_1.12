@@ -1,5 +1,7 @@
 SHINE for SAP HANA extended application services advanced model (SHINE for XSA) SPS12
 ================
+Copied from https://github.com/SAP/hana-shine-xsa
+=============}==
 SAP HANA Interactive Education, or SHINE, is a demo application that makes it easy to learn how to build applications on SAP HANA extended application services advanced model. This demo application is delivered as a package that contains sample data and design-time developer objects for the applications database tables, views, OData and user interface. 
 
 SHINE for HANA extended application services advanced model (SHINE for XSA) is a successor of [SHINE for XS Classic](https://github.com/SAP/hana-shine/ "SHINE for XS Classic"). It is based on micro service architecture. It showcases how multiple runtimes(Nodejs and XSJS) can be used in a single application and is packaged as a Multi Target Application
